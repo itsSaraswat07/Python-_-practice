@@ -1,0 +1,19 @@
+"""Mini Project 3 — To-Do List
+Start simple:
+tasks = []
+
+task = input("Enter a task: ")
+tasks.append(task)
+
+print("Your tasks:")
+print(tasks)
+Then improve it by allowing the user to add 3 tasks using a loop."""
+
+tasks = []
+
+for i in range (3): 
+   task = input("Enter a task")
+   tasks.append(task)
+
+   print("My tasks")
+   print(task)
