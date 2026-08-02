@@ -1,2 +1,8 @@
-# Python-_-practice
-My Python practice programs and mini projects.
+
+# Python Practice
+
+This repository contains my Python practice programs and mini projects.
+
+## Projects
+- Calculator
+- To-Do list
